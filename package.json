@@ -1,0 +1,19 @@
+{
+  "name": "standardjax-core",
+  "version": "1.0.0",
+  "description": "Applejax core and systems implementation using a entity-component-system design. To be used by a server of some sort.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possibly/standardjax-core.git"
+  },
+  "author": "Tyler Brothers <tylerbrothers1@gmail.com> (www.thetylerbrothers.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/possibly/standardjax-core/issues"
+  },
+  "homepage": "https://github.com/possibly/standardjax-core#readme"
+}
